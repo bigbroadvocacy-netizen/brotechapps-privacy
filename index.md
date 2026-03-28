@@ -1,5 +1,5 @@
 # Big Bro Apps Privacy Policy
-Last updated: [DATE]
+Last updated: [03/28/2026]
 
 This Privacy Policy applies to all Big Bro applications created by BroTechApps, including but not limited to Big Bro Advocacy Assistant, Big Bro Planner, and any future Big Bro tools (“Big Bro Apps”, “we”, “our”, or “us”).
 
