@@ -22,4 +22,4 @@ All apps link to these documents for consistency and transparency.
 ## Contact
 **BroTechApps**  
 GitHub: https://github.com/bigbroadvocacy-netizen  
-Email: [YOUR EMAIL HERE]
+Email: [BigBroAdvocacy@gmail.com]
