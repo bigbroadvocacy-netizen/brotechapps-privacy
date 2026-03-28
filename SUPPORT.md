@@ -27,7 +27,7 @@ If you need direct help, you can reach us at:
 
 **BroTechApps**  
 GitHub: https://github.com/bigbroadvocacy-netizen  
-Email: [YOUR EMAIL HERE]
+Email: [BigBroAdvocacy@gmail.com]
 
 ---
 
