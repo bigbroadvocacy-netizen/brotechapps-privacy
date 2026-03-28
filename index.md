@@ -111,5 +111,5 @@ If you have questions about this Privacy Policy, you may contact:
 
 **BroTechApps**  
 GitHub: https://github.com/bigbroadvocacy-netizen  
-Email: [YOUR EMAIL HERE]
+Email: [BigBroAdvocacy@gmail.com]
 
